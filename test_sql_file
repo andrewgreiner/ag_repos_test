@@ -1,0 +1,1 @@
+SELECT * FROM system.storage.predictive_optimization_operations_history where operation_type = "CLUSTERING"
